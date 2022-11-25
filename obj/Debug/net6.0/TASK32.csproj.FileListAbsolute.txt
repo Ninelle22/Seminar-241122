@@ -1,0 +1,15 @@
+D:\GEEKBRAINS\Seminar251122\TASK32\obj\Debug\net6.0\TASK32.csproj.AssemblyReference.cache
+D:\GEEKBRAINS\Seminar251122\TASK32\obj\Debug\net6.0\TASK32.GeneratedMSBuildEditorConfig.editorconfig
+D:\GEEKBRAINS\Seminar251122\TASK32\obj\Debug\net6.0\TASK32.AssemblyInfoInputs.cache
+D:\GEEKBRAINS\Seminar251122\TASK32\obj\Debug\net6.0\TASK32.AssemblyInfo.cs
+D:\GEEKBRAINS\Seminar251122\TASK32\obj\Debug\net6.0\TASK32.csproj.CoreCompileInputs.cache
+D:\GEEKBRAINS\Seminar251122\TASK32\bin\Debug\net6.0\TASK32.exe
+D:\GEEKBRAINS\Seminar251122\TASK32\bin\Debug\net6.0\TASK32.deps.json
+D:\GEEKBRAINS\Seminar251122\TASK32\bin\Debug\net6.0\TASK32.runtimeconfig.json
+D:\GEEKBRAINS\Seminar251122\TASK32\bin\Debug\net6.0\TASK32.dll
+D:\GEEKBRAINS\Seminar251122\TASK32\bin\Debug\net6.0\TASK32.pdb
+D:\GEEKBRAINS\Seminar251122\TASK32\obj\Debug\net6.0\TASK32.dll
+D:\GEEKBRAINS\Seminar251122\TASK32\obj\Debug\net6.0\refint\TASK32.dll
+D:\GEEKBRAINS\Seminar251122\TASK32\obj\Debug\net6.0\TASK32.pdb
+D:\GEEKBRAINS\Seminar251122\TASK32\obj\Debug\net6.0\TASK32.genruntimeconfig.cache
+D:\GEEKBRAINS\Seminar251122\TASK32\obj\Debug\net6.0\ref\TASK32.dll
